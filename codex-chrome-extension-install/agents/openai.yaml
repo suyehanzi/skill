@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Chrome Extension Install"
+  short_description: "Install the Codex Chrome extension manually"
+  default_prompt: "Use $codex-chrome-extension-install to install or repair the Codex Chrome extension on this Mac."
