@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clash WeChat TUN Fix"
+  short_description: "Diagnose and fix WeChat image failures with Clash TUN"
+  default_prompt: "Use $clash-wechat-tun-fix to diagnose WeChat image sending failures when Clash Verge TUN is enabled."
