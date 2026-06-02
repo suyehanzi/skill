@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mirror Chat Operator"
+  short_description: "Operate mirrored mobile chat with care"
+  default_prompt: "Use $mirror-chat-operator to inspect a mirrored mobile chat and draft a natural reply."
