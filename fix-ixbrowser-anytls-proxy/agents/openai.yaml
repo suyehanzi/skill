@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fix iXBrowser AnyTLS Proxy"
+  short_description: "Diagnose and bridge iXBrowser proxy failures on AnyTLS"
+  default_prompt: "Use $fix-ixbrowser-anytls-proxy to diagnose and repair iXBrowser SOCKS5 failures behind Clash AnyTLS without changing the browser proxy."
