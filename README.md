@@ -9,6 +9,7 @@ Central collection of Suye's Codex skills.
 - `mirror-chat-operator`: Operate mirrored mobile interfaces, including iPhone Mirroring scroll and long-press fallbacks.
 - `remote-input-operator`: Enter and verify commands in remote Windows desktops when input forwarding is unreliable.
 - `clash-wechat-tun-fix`: Diagnose and fix WeChat media sending failures caused by Clash Verge / mihomo TUN or fake-ip behavior.
+- `fix-ixbrowser-anytls-proxy`: Diagnose and bridge iXBrowser SOCKS5 failures behind Clash AnyTLS without changing browser profile proxies.
 
 ## Layout
 
